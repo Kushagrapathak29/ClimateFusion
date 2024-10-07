@@ -2,7 +2,7 @@
   <img src="/Images/img_1.jpg" ></img>
 </div>
 
-# Welcome to Climate Change Analysis Project
+# Welcome to Climate Fusion project
 <div>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="jupyter" />
